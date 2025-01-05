@@ -24,7 +24,7 @@ A detailed data dictionary includes attributes such as:
 **Maximum Heart Rate (thalach)**: Achieved during exercise.
 **Exercise-Induced Angina (exang)**: Whether exercise causes angina (1 = yes, 0 = no).
 **Target**: Indicates the presence of heart disease (1 = yes, 0 = no).
-(Additional features include ECG results, ST depression, slope, and major vessels count.)
+(Additional features include ECG results, ST depression, slope, and major vessel count.)
 
 **5. Modelling**
 Logistic Regression
@@ -36,7 +36,7 @@ Metrics such as accuracy, precision, recall, and F1 scores were calculated for e
 **1. Exploratory Data Analysis (EDA)**
 EDA was conducted to:
 
-Clean and ensure the data was complete and accurate.
+Clean and ensure the data is complete and accurate.
 Visualize relationships and trends within the dataset.
 Identify correlations between features and the target variable.
 2. Model Comparison
